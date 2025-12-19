@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.16.4",
+    "@aws-amplify/ui-vue": "^4.3.7",
     "aws-amplify": "^6.15.9",
     "axios": "^1.2.1",
     "pinia": "^3.0.1",
@@ -32,6 +33,7 @@
     "@quasar/app-vite": "^2.1.0",
     "@vue/eslint-config-prettier": "^10.1.0",
     "autoprefixer": "^10.4.2",
+    "aws-cdk": "^2.137.0",
     "aws-cdk-lib": "^2.216.0",
     "constructs": "^10.4.4",
     "esbuild": "^0.27.2",
